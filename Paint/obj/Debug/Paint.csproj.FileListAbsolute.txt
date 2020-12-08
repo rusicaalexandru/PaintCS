@@ -1,0 +1,10 @@
+F:\GithubPRJ\PaintCS\Paint\bin\Debug\Paint.exe.config
+F:\GithubPRJ\PaintCS\Paint\bin\Debug\Paint.exe
+F:\GithubPRJ\PaintCS\Paint\bin\Debug\Paint.pdb
+F:\GithubPRJ\PaintCS\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+F:\GithubPRJ\PaintCS\Paint\obj\Debug\Paint.Form1.resources
+F:\GithubPRJ\PaintCS\Paint\obj\Debug\Paint.Properties.Resources.resources
+F:\GithubPRJ\PaintCS\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+F:\GithubPRJ\PaintCS\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+F:\GithubPRJ\PaintCS\Paint\obj\Debug\Paint.exe
+F:\GithubPRJ\PaintCS\Paint\obj\Debug\Paint.pdb
